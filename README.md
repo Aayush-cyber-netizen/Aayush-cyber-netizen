@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aayush-cyber-netizen
+- 👋 Hi, I’m @Aayush
 - 👀 I’m interested in cyber security
 - 🌱 I’m currently learning networking and linux
 - 📫 How to reach me, mail me on supernova08683@gmail.com
